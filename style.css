@@ -1,0 +1,28 @@
+body{
+    padding: 10px;
+}
+
+
+li{
+    display:inline;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  a:hover{
+      text-decoration: underline;
+  }
+  body{
+      background-image: url(https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png);
+      background-repeat: no-repeat;
+    }
+    footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+       
+    }
